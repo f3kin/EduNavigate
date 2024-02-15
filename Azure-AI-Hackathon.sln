@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{9F64859C-DBE0-4EE7-A9B6-CFCF9BD987A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduNavigate", "src\EduNavigate\EduNavigate.csproj", "{7B374AB2-482B-44FC-9D9E-548273D73061}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduNavigate.Tests", "EduNavigate.Tests\EduNavigate.Tests.csproj", "{102B24FE-8211-43D4-9CA4-19A78525369B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B374AB2-482B-44FC-9D9E-548273D73061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B374AB2-482B-44FC-9D9E-548273D73061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B374AB2-482B-44FC-9D9E-548273D73061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B374AB2-482B-44FC-9D9E-548273D73061}.Release|Any CPU.Build.0 = Release|Any CPU
+		{102B24FE-8211-43D4-9CA4-19A78525369B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{102B24FE-8211-43D4-9CA4-19A78525369B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{102B24FE-8211-43D4-9CA4-19A78525369B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{102B24FE-8211-43D4-9CA4-19A78525369B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7B374AB2-482B-44FC-9D9E-548273D73061} = {9F64859C-DBE0-4EE7-A9B6-CFCF9BD987A4}
+	EndGlobalSection
+EndGlobal

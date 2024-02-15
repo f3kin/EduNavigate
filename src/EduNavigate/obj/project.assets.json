@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "/Users/finlay/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/finlay/Desktop/Personal-Engineering/MyProjects/Azure-AI-Hackathon/EduNavigate/EduNavigate.csproj",
+      "projectName": "EduNavigate",
+      "projectPath": "/Users/finlay/Desktop/Personal-Engineering/MyProjects/Azure-AI-Hackathon/EduNavigate/EduNavigate.csproj",
+      "packagesPath": "/Users/finlay/.nuget/packages/",
+      "outputPath": "/Users/finlay/Desktop/Personal-Engineering/MyProjects/Azure-AI-Hackathon/EduNavigate/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/finlay/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.416/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
